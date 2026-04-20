@@ -133,8 +133,8 @@ Deploy as API or SaaS platform
 Built an AI-powered system to detect and optimize inefficiencies in India’s Public Distribution System using Machine Learning and bio-inspired algorithms, improving predictive performance and generating actionable insights.
 
 📬 Contact
-📧 Email: Add your email
-🔗 LinkedIn: Add your profile link
+📧 Email: sagnik.patra2000@gmail.com
+🔗 LinkedIn: [Add your profile link](https://www.linkedin.com/in/sagnik2212/)
 ⭐ Support
 
 If you found this project useful, give it a ⭐ on GitHub!
