@@ -1,52 +1,84 @@
-🌾 Public Distribution System (PDS) Leakage & Optimization Analyzer
-🧠 Optimizing Subsidy Distribution using Bio-Inspired Algorithms
+# 🌾 Public Distribution System (PDS) Leakage & Optimization Analyzer  
 
-👤 Author
+## 🧠 Optimizing Subsidy Distribution using Bio-Inspired Algorithms  
 
-Sagnik Patra
+---
 
-📌 Project Overview
+## 👤 Author  
+**Sagnik Patra**
 
-This project builds an end-to-end Machine Learning pipeline to analyze and optimize inefficiencies in India’s Public Distribution System (PDS).
+---
 
-Using bio-inspired optimization algorithms, the system identifies:
+## 📌 Project Overview  
 
-📉 Leakage patterns
-⚠️ Distribution inefficiencies
-📊 Prediction gaps
+This project builds an **end-to-end Machine Learning pipeline** to analyze and optimize inefficiencies in India’s **Public Distribution System (PDS)**.
 
-and improves model performance through intelligent feature selection.
+Using **bio-inspired optimization algorithms**, the system identifies:
 
-🎯 Objectives
-Analyze distribution inefficiencies in subsidy systems
-Predict leakage using machine learning
-Optimize feature selection using bio-inspired algorithms
-Generate actionable insights through visualizations
-Export production-ready outputs
-⚙️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
-Joblib, JSON, YAML
-Optimization Algorithms (AIS, CSA, PSO, QPSO, BA, ALOA)
-🧠 Algorithms Implemented
-Algorithm	Purpose
-AIS (Artificial Immune System)	Feature Optimization
-CSA (Clonal Selection Algorithm)	Feature Selection
-PSO (Particle Swarm Optimization)	Search Optimization
-QPSO (Quantum PSO)	Advanced Search
-BA (Bat Algorithm)	Exploration & Exploitation
-ALOA (Ant Lion Optimization)	Global Optimization
-📊 Visualizations
-📈 Model Performance Graph
+- 📉 Leakage patterns  
+- ⚠️ Distribution inefficiencies  
+- 📊 Prediction gaps  
 
-📊 Additional Visuals Generated
-Heatmap (Feature Correlation)
-Actual vs Predicted Graph
-Prediction Scatter Plot
-Optimization Accuracy Graph
-📂 Project Structure
+and improves model performance through **intelligent feature selection**.
+
+---
+
+## 🎯 Objectives  
+
+- Analyze distribution inefficiencies in subsidy systems  
+- Predict leakage using machine learning  
+- Optimize feature selection using bio-inspired algorithms  
+- Generate actionable insights through visualizations  
+- Export production-ready outputs  
+
+---
+
+## ⚙️ Tech Stack  
+
+- **Python**  
+- **Pandas, NumPy**  
+- **Scikit-learn**  
+- **Matplotlib, Seaborn**  
+- **Joblib, JSON, YAML**  
+- **Optimization Algorithms (AIS, CSA, PSO, QPSO, BA, ALOA)**  
+
+---
+
+## 🧠 Algorithms Implemented  
+
+| Algorithm | Purpose |
+|----------|--------|
+| 🧬 AIS (Artificial Immune System) | Feature Optimization |
+| 🐦 CSA (Clonal Selection Algorithm) | Feature Selection |
+| 🐟 PSO (Particle Swarm Optimization) | Search Optimization |
+| ⚛️ QPSO (Quantum PSO) | Advanced Search |
+| 🦇 BA (Bat Algorithm) | Exploration & Exploitation |
+| 🐜 ALOA (Ant Lion Optimization) | Global Optimization |
+
+---
+
+## 📊 Visualizations  
+
+### 🔥 Model Performance Graph  
+
+> ⚠️ Place your generated image `ais_result_graph.png` in the root folder  
+
+![AIS Result Graph](./ais_result_graph.png)
+
+---
+
+### 📊 Additional Visuals  
+
+- Heatmap (Feature Correlation)  
+- Actual vs Predicted Graph  
+- Prediction Scatter Plot  
+- Optimization Accuracy Graph  
+
+---
+
+## 📂 Project Structure  
+
+```bash
 PDS-Leakage-Analyzer/
 │
 ├── data/
@@ -76,13 +108,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib openpyxl
 2️⃣ Run the Script
 python ais_model.py
 3️⃣ Outputs Generated
-
 ✔ Predictions CSV
 ✔ Results CSV
 ✔ Performance Graphs
 ✔ Optimized Model
 ✔ Config Files
-
 📊 Sample Output
 Metric	Value
 R² Score	High
@@ -90,10 +120,10 @@ MSE	Low
 MAE	Low
 💡 Key Insights
 Bio-inspired algorithms significantly improve feature selection
-Optimization leads to better prediction accuracy
-Even small datasets can demonstrate pipeline efficiency
-Visualization helps identify leakage patterns clearly
-🔥 Future Improvements
+Optimization enhances model performance
+Even small datasets can demonstrate pipeline capability
+Visualization helps identify inefficiencies clearly
+🚀 Future Improvements
 Integrate real-time government datasets
 Build Streamlit dashboard
 Add anomaly detection (fraud detection)
@@ -103,11 +133,8 @@ Deploy as API or SaaS platform
 Built an AI-powered system to detect and optimize inefficiencies in India’s Public Distribution System using Machine Learning and bio-inspired algorithms, improving predictive performance and generating actionable insights.
 
 📬 Contact
+📧 Email: Add your email
+🔗 LinkedIn: Add your profile link
+⭐ Support
 
-For collaboration or opportunities:
-📧 [Add your email]
-🔗 [Add LinkedIn]
-
-⭐ If you found this useful
-
-Give it a ⭐ on GitHub!
+If you found this project useful, give it a ⭐ on GitHub!
